@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhanumallina
 - 👀 I’m interested in codeing
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning CPYTHO language
 - 💞️ I’m looking to collaborate on.....
 - 📫 How to reach me ...
 
